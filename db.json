@@ -33,9 +33,16 @@
       "linkImagen": "https://firebasestorage.googleapis.com/v0/b/react-firebase-9385b.appspot.com/o/1224972.webp?alt=media&token=fafb02b7-add2-4014-b078-6b483cbb6260",
       "descripcion": "Komi-san es la chica hermosa y admirable de la que nadie puede es capaz de apartar la vista. Casi toda la escuela la ve como la belleza fría que está fuera de su alcance, pero Tadano Hitohito sabe la verdad: ella es realmente mala para comunicarse con los demás.",
       "categorias": "anime"
+    },
+    {
+      "id": "29036b56-918c-40be-83d8-00ee8d7c4202",
+      "titulo": "Komi-san",
+      "linkVideo": "https://firebasestorage.googleapis.com/v0/b/react-firebase-9385b.appspot.com/o/59478288-1ca4-498c-a0b2-9d1a8a6471c1?alt=media&token=72cd914e-e733-4789-9167-66ae6268ea46",
+      "linkImagen": "https://firebasestorage.googleapis.com/v0/b/react-firebase-9385b.appspot.com/o/1224972.webp?alt=media&token=fafb02b7-add2-4014-b078-6b483cbb6260",
+      "descripcion": "Komi-san es la chica hermosa y admirable de la que nadie puede es capaz de apartar la vista. Casi toda la escuela la ve como la belleza fría que está fuera de su alcance, pero Tadano Hitohito sabe la verdad: ella es realmente mala para comunicarse con los demás.",
+      "categorias": "anime"
     }
   ],
-  {
   "perfil": [
     {
       "email": "colindresj9@gmail.com",
@@ -198,4 +205,3 @@
     }
   ]
 }
-
